@@ -1,0 +1,93 @@
+body {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+
+h2 {
+    color: #68a8a8;
+}
+
+hr {
+    border-style: dotted none none none;
+    height: 0px;
+    width: 20%;
+    border-color: grey;
+    border-width: 10px;
+}
+
+#table_title {
+    font-size: 135%;
+    font-family: 'Sacramento', cursive;
+    display: inline-block;
+    margin-right: auto;
+    text-align: center;
+    padding: 1%;
+}
+
+#title {
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+}
+
+#meDancingImage {
+    height: 40%;
+    width: 40%;
+    display: inline-block;
+}
+
+.menu {
+    text-align: center;
+    height: 10%;
+    width: 100%;
+    display: flex;
+}
+
+.menuItem {
+    width: 33%;
+    display: inline-block;
+}
+
+.cloud {
+    display: inline-block;
+}
+
+.mountain {
+    margin: auto 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.bottom-container {
+    background-color: white;
+}
+
+.middle-container {
+    background-color: white;
+}
+
+.skills {
+    list-style: inside;
+}
+
+.education {
+    list-style: inside;
+}
+
+#image_data {
+    width: 30%;
+    height: 30%;
+}
+
+.top {
+    height: 100%;
+    background-color: #EAF6F6;
+    margin: 0 0 0 0;
+}
+
+#table_hobbies {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+

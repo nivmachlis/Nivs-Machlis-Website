@@ -1,0 +1,50 @@
+body {
+    background-color: #EAF6F6;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+
+h2 {
+    color: #66BBBF;
+}
+
+hr {
+    border-style: dotted none none none;
+    height: 0px;
+    width: 20%;
+    border-color: grey;
+    border-width: 10px;
+}
+
+#table_title {
+    font-family: 'Sacramento', cursive;
+    display: inline-block;
+    margin-right: auto;
+    text-align: center;
+    padding: 1%;
+}
+
+#title {
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+}
+
+.menu {
+    text-align: center;
+    height: 10%;
+    width: 100%;
+    display: flex;
+}
+
+.menuItem {
+    width: 33%;
+    display: inline-block;
+}
+
+.cloud {
+    display: inline-block;
+}
+
+.bottom-container {
+    background-color: white;
+}
